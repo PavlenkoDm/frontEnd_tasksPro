@@ -2,7 +2,7 @@
   "name": "react-homework-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://HennadiiBorysevych.github.io/frontEnd_tasksPro/",
+  "homepage": "https://PavlenkoDm.github.io/frontEnd_tasksPro/",
   "dependencies": {
     "@cloudinary/react": "^1.11.2",
     "@cloudinary/url-gen": "^1.11.1",
